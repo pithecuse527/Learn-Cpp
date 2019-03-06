@@ -1,4 +1,4 @@
-# Learn-C-
+# Learn-Cpp
 Basic C++ practice with Edx Microsoft program.
 
 # Material
